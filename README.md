@@ -1,2 +1,3 @@
-# issue-tracking--licence-manager
-Public repository for the discussion of issues and improvements for the MDP's Licence Manager
+# Issue Tracking for MDP Licence Manager
+
+To view all issues opened, select ``Issues`` at the top, or click [here](https://github.com/NOC-MDP/issue-tracking--licence-manager/issues).
